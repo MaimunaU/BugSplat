@@ -11,9 +11,9 @@ function initialize() {
 }
 
 function changeImage() { 
-    if (document.getElementById("bug1").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug1").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug1").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug1").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -22,9 +22,9 @@ function changeImage() {
 }
 
 function changeImage2() {
-    if (document.getElementById("bug2").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug2").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug2").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug2").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -33,9 +33,9 @@ function changeImage2() {
 }
 
 function changeImage3() {
-    if (document.getElementById("bug3").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug3").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug3").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug3").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -44,9 +44,9 @@ function changeImage3() {
 }
 
 function changeImage4() {
-    if (document.getElementById("bug4").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug4").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug4").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug4").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -55,9 +55,9 @@ function changeImage4() {
 }
 
 function changeImage5() {
-    if (document.getElementById("bug5").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug5").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug5").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug5").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -66,9 +66,9 @@ function changeImage5() {
 }
 
 function changeImage6() {
-    if (document.getElementById("bug6").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug6").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug6").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug6").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -77,9 +77,9 @@ function changeImage6() {
 }
 
 function changeImage7() {
-    if (document.getElementById("bug7").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug7").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug7").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug7").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -88,9 +88,9 @@ function changeImage7() {
 }
 
 function changeImage8() {
-    if (document.getElementById("bug8").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug8").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug8").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug8").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -99,9 +99,9 @@ function changeImage8() {
 }
 
 function changeImage9() {
-    if (document.getElementById("bug9").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug9").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug9").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug9").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -110,9 +110,9 @@ function changeImage9() {
 }
 
 function changeImage10() {
-    if (document.getElementById("bug10").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug10").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug10").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug10").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -121,9 +121,9 @@ function changeImage10() {
 }
 
 function changeImage11() {
-    if (document.getElementById("bug11").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug11").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug11").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug11").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -132,9 +132,9 @@ function changeImage11() {
 }
 
 function changeImage12() {
-    if (document.getElementById("bug12").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug12").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug12").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug12").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -143,9 +143,9 @@ function changeImage12() {
 }
 
 function changeImage13() {
-    if (document.getElementById("bug13").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug13").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug13").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug13").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -154,9 +154,9 @@ function changeImage13() {
 }
 
 function changeImage14() {
-    if (document.getElementById("bug14").src = "//bugSplatimages/bug.jpg")
+    if (document.getElementById("bug14").src = "//BugSplatimages/bug.jpg")
     {
-        document.getElementById("bug14").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug14").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
@@ -165,9 +165,9 @@ function changeImage14() {
 }
 
 function changeImage15() {
-    if (document.getElementById("bug15").src = "/bugSplat/images/bug.jpg")
+    if (document.getElementById("bug15").src = "/BugSplat/images/bug.jpg")
     {
-        document.getElementById("bug15").src = "/bugSplat/images/splatter.jpg";
+        document.getElementById("bug15").src = "/BugSplat/images/splatter.jpg";
         if (bugsNum > 0) {
             bugsNum--;
         }
